@@ -1,5 +1,5 @@
 # iptv
-http://thex.tv:57999/get.php?username=juanlopez&password=juanlopez&type=m3u
+
 
 http://dimapro.cz:8080/get.php?username=N2vdf6yju0&password=ntH7B86Dp6&type=m3u
 
