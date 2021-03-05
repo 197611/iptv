@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="EPG-CODE" tvg-name="CHANNELNAME" tvg-logo="LOGO-URL" group-title="Srbija",SRB: Channel
+
 
 #EXTINF:-1,KanalR Rijeka HR
 http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/13338
